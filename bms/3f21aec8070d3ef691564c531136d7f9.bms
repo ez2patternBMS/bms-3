@@ -1,0 +1,352 @@
+
+*---------------------- HEADER FIELD
+
+#PLAYER 3
+#GENRE Psychedelic Trance
+#TITLE 死ぬほど忙しい人のためのBrain Analysis
+#ARTIST BACO / bga : kody / obj : 2y
+#BPM 155
+#PLAYLEVEL 12
+#RANK 3
+#TOTAL 100
+#STAGEFILE kody_title.bmp
+
+#WAV01 _drum_bd0.ogg
+#WAV02 _drum_bd1.ogg
+#WAV04 _drum_oh.ogg
+#WAV05 _drum_ch.ogg
+#WAV06 _drum_ch_roll0.ogg
+#WAV07 _drum_ch_roll1.ogg
+#WAV08 _drum_ch_roll2.ogg
+#WAV09 _drum_ch_roll3.ogg
+#WAV0D _drum_sd3.ogg
+#WAV0E _drum_sd4.ogg
+#WAV0F _drum_sd5.ogg
+#WAV0G _drum_sd6.ogg
+#WAV0H _drum_sd_roll.ogg
+#WAV0L _drum_cy1.ogg
+#WAV0M _drum_cy2.ogg
+#WAV2U bs14_00.ogg
+#WAV2V bs14_00.ogg
+#WAV2W bs14_01.ogg
+#WAV2X bs14_01.ogg
+#WAV3M bs14^01.ogg
+#WAV3N bs14^02.ogg
+#WAV3O bs14^03.ogg
+#WAV3P bs14^04.ogg
+#WAV3Q bs14^05.ogg
+#WAV3R bs14^06.ogg
+#WAV3S bs14^07.ogg
+#WAV3T bs14^08.ogg
+#WAV3U bs14^09.ogg
+#WAV3V bs14^10.ogg
+#WAV3W bs14^11.ogg
+#WAV3X bs14^12.ogg
+#WAV3Y bs14^13.ogg
+#WAV3Z bs14^14.ogg
+#WAV40 bs14^15.ogg
+#WAV41 bs14^16.ogg
+#WAV72 ld4_03.ogg
+#WAV73 ld4_04.ogg
+#WAV74 ld4_05.ogg
+#WAV75 ld4_06.ogg
+#WAV76 ld4_07.ogg
+#WAV77 ld4_08.ogg
+#WAV78 ld4_09.ogg
+#WAV7A ld4_11.ogg
+#WAV7Y ld^00.ogg
+#WAV7Z ld^01.ogg
+#WAV80 ld^02.ogg
+#WAV81 ld^03.ogg
+#WAV82 ld^04.ogg
+#WAV83 ld^05.ogg
+#WAV84 ld^06.ogg
+#WAV85 ld^07.ogg
+#WAV86 ld^08.ogg
+#WAV87 ld^09.ogg
+#WAV88 ld^10.ogg
+#WAV89 ld^11.ogg
+#WAV8A ld^12.ogg
+#WAV8B ld^13.ogg
+#WAV8C ld^14.ogg
+#WAV8D ld^15.ogg
+#WAV8E ld^16.ogg
+#WAV8F ld^17.ogg
+#WAV92 noize_03.ogg
+#WAV95 noize_06.ogg
+#WAV98 noize_09.ogg
+#WAV9B noize_12.ogg
+#WAV9C noize_13.ogg
+#WAV9D noize_14.ogg
+#WAV9E noize_15.ogg
+#WAV9F noize_16.ogg
+#WAV9G noize_17.ogg
+#WAV9H noize_18.ogg
+#WAV9M sb00.ogg
+#WAV9N sb01.ogg
+#WAV9O sb02.ogg
+#WAVA7 scan_long.ogg
+
+#BMP00 kody_miss.bmp
+#BMP01 kody_cut1a 01.bmp
+#BMP02 kody_cut1a 02.bmp
+#BMP03 kody_cut1a 03.bmp
+#BMP04 kody_cut1a 04.bmp
+#BMP05 kody_cut1a 05.bmp
+#BMP06 kody_cut1a 06.bmp
+#BMP07 kody_cut1a 07.bmp
+#BMP08 kody_cut1a 08.bmp
+#BMP09 kody_cut1a 09.bmp
+#BMP0A kody_cut1a 10.bmp
+#BMP0B kody_cut1a 11.bmp
+#BMP0C kody_cut1a 12.bmp
+#BMP0D kody_cut1a 13.bmp
+#BMP0E kody_cut1a 14.bmp
+#BMP0F kody_cut1a 15.bmp
+#BMP0G kody_cut1a 16.bmp
+#BMP0H kody_cut1a 17.bmp
+#BMP0I kody_cut1a 18.bmp
+#BMP0J kody_cut1a 19.bmp
+#BMP0K kody_cut1a 20.bmp
+#BMP0L kody_cut1a 21.bmp
+#BMP0M kody_cut1a 22.bmp
+#BMP0N kody_cut1a 23.bmp
+#BMP0O kody_cut1a 24.bmp
+#BMP0P kody_cut1a 25.bmp
+#BMP0Q kody_cut1a 26.bmp
+#BMP0R kody_cut1a 27.bmp
+#BMP0S kody_cut1a 28.bmp
+#BMP0T kody_cut1a 29.bmp
+#BMP0U kody_cut1a 30.bmp
+#BMP0V kody_cut1a 31.bmp
+#BMP0W kody_cut1a 32.bmp
+#BMP0X kody_cut1a 33.bmp
+#BMP0Y kody_cut1a 34.bmp
+#BMP0Z kody_cut1a 35.bmp
+#BMP10 kody_cut1a 36.bmp
+#BMP11 kody_cut1a 37.bmp
+#BMP12 kody_cut1a 38.bmp
+#BMP13 kody_cut1a 39.bmp
+#BMP14 kody_cut1a 40.bmp
+#BMP15 kody_cut1a 41.bmp
+#BMP16 kody_cut1a 42.bmp
+#BMP17 kody_cut1a 43.bmp
+#BMP18 kody_cut1a 44.bmp
+#BMP19 kody_cut1a 45.bmp
+#BMP1A kody_cut1a 46.bmp
+#BMP1B kody_cut1a 47.bmp
+#BMP1C kody_cut1a 48.bmp
+#BMP1D kody_cut1a 49.bmp
+#BMP1E kody_cut1a 50.bmp
+#BMP1F kody_cut1a 51.bmp
+#BMP1G kody_cut1a 52.bmp
+#BMP1H kody_cut1a 53.bmp
+#BMP1I kody_cut1a 54.bmp
+#BMP1J kody_cut1a 55.bmp
+#BMP1K kody_cut1a 56.bmp
+#BMP1L kody_cut1a 57.bmp
+#BMP1M kody_cut1a 58.bmp
+#BMP1N kody_cut1a 59.bmp
+#BMP1O kody_cut1a 60.bmp
+#BMP1P kody_cut1a 61.bmp
+#BMP1Q kody_cut1a 62.bmp
+#BMP1R kody_cut1a 63.bmp
+#BMP1S kody_cut1a 64.bmp
+#BMP1T kody_cut1a 65.bmp
+#BMP1U kody_cut1a 66.bmp
+#BMP1V kody_cut1a 67.bmp
+#BMP1W kody_cut1a 68.bmp
+#BMP1X kody_cut1a 69.bmp
+#BMP1Y kody_cut1a 70.bmp
+#BMP1Z kody_cut1a 71.bmp
+#BMP20 kody_cut1a 72.bmp
+#BMP21 kody_cut1a 73.bmp
+#BMP22 kody_cut1b 01.bmp
+#BMP23 kody_cut1b 02.bmp
+#BMP24 kody_cut1b 03.bmp
+#BMP25 kody_cut1b 04.bmp
+#BMP26 kody_cut1b 05.bmp
+#BMP27 kody_cut1b 06.bmp
+#BMP28 kody_cut1b 07.bmp
+#BMP29 kody_cut1b 08.bmp
+#BMP2A kody_cut1b 09.bmp
+#BMP2B kody_cut1b 10.bmp
+#BMP2C kody_cut1b 11.bmp
+#BMP2D kody_cut1b 12.bmp
+#BMP2E kody_cut1b 13.bmp
+#BMP2F kody_cut1b 14.bmp
+#BMP2G kody_cut1b 15.bmp
+#BMP2H kody_cut1b 16.bmp
+#BMP2I kody_cut1b 17.bmp
+#BMP2J kody_cut1b 18.bmp
+#BMP2K kody_cut1b 19.bmp
+#BMP2L kody_cut1b 20.bmp
+#BMP2M kody_cut1b 21.bmp
+#BMP2N kody_cut1b 22.bmp
+#BMP2O kody_cut1b 23.bmp
+#BMP2P kody_cut1b 24.bmp
+#BMP2Q kody_cut1b 25.bmp
+#BMP2R kody_cut1b 26.bmp
+#BMP2S kody_cut1b 27.bmp
+#BMP2T kody_cut1b 28.bmp
+#BMP2U kody_cut1b 29.bmp
+#BMP2V kody_cut1b 30.bmp
+#BMP2W kody_cut1b 31.bmp
+#BMP2X kody_cut1b 32.bmp
+#BMP2Y kody_cut1b 33.bmp
+#BMP2Z kody_cut1b 34.bmp
+#BMP30 kody_cut1b 35.bmp
+#BMP31 kody_cut1b 36.bmp
+#BMP32 kody_cut1b 37.bmp
+#BMP33 kody_cut1b 38.bmp
+#BMP34 kody_cut1b 39.bmp
+#BMP55 kody_cut2c 17.bmp
+#BMP56 kody_cut2c 18.bmp
+#BMP57 kody_cut2c 19.bmp
+#BMP58 kody_cut2c 20.bmp
+#BMP59 kody_cut2c 21.bmp
+#BMP5A kody_cut2c 22.bmp
+#BMP5B kody_cut2c 23.bmp
+#BMP5C kody_cut2c 24.bmp
+#BMP5D kody_cut2c 25.bmp
+#BMP5E kody_cut2c 26.bmp
+#BMP5F kody_cut2c 27.bmp
+#BMP5G kody_cut2c 28.bmp
+#BMP5H kody_cut2c 29.bmp
+#BMP5I kody_cut2c 30.bmp
+#BMP5J kody_cut2c 31.bmp
+#BMP5K kody_cut2c 32.bmp
+#BMP5L kody_cut2c 33.bmp
+#BMP5M kody_cut2c 34.bmp
+#BMP5N kody_cut2c 35.bmp
+#BMP5O kody_cut2c 36.bmp
+#BMP5P kody_cut2c 37.bmp
+#BMP5Q kody_cut2c 38.bmp
+#BMP5R kody_cut2c 39.bmp
+#BMP5S kody_cut2c 40.bmp
+#BMP5T kody_cut2c 41.bmp
+#BMP5U kody_cut2c 42.bmp
+#BMP5V kody_cut2c 43.bmp
+#BMP5W kody_cut2c 44.bmp
+#BMP5X kody_cut2c 45.bmp
+#BMP5Y kody_cut2c 46.bmp
+#BMP5Z kody_cut2c 47.bmp
+#BMP60 kody_cut2c 48.bmp
+
+
+#BPM01 38.75
+
+
+#BANNER kody_banner.bmp
+
+
+
+*---------------------- MAIN DATA FIELD
+
+
+#00101:00
+#00101:05050405050504050505040505050404
+#00101:0D0D0D0D0E0E0E0E0F0F0F0F0G0G0G0G
+#00101:00
+#00101:00
+#00101:2U2V2W2U2V2W2U2W2U2W2X2U3M3N3O3P
+#00101:00
+#00101:00
+#00101:0101
+#00101:0L0L
+#00101:00
+#00101:9M009N9M009N9M009M009N9M009N9M00
+#00104:0102030405060708090A0B0C0D0E0F0G0H0I0J0K0L0M0N0O0P0Q0R0S0T0U0V0W0X0Y0Z101112131415161718191A1B1C1D1E1F1G1H1I1J1K1L1M1N1O1P1Q1R1S
+#00111:0092
+#00112:0000000000000000009500009D000000
+#00113:0000009C00009D0000009800009F0000
+#00114:00000000000000000000009B00009G00
+#00115:9C009D00009D009D000000000000009H
+#00121:7A00007A00007A000000000000000000
+#00122:0000007Y
+#00123:00780000000000007500000000008000
+#00124:00770000
+#00125:000077000000000000740000007Z0000
+#00128:00000000007600760000007300000081
+#00129:0000000000720000
+
+#00201:00
+#00201:00
+#00201:050005000400050005000500040005000607080904000500
+#00201:0H
+#00201:00
+#00201:00
+#00201:3Q3R3S3T3U3V3W3X3Y3Z4041
+#00201:00
+#00201:010001000100010002020202
+#00201:0M0M0M
+#00201:00
+#00201:00
+#00201:9M009N9M009N9M009M009N9O
+#00202:0.75
+#00204:1T1U1V1W1X1Y1Z202122232425262728292A2B2C2D2E2F2G2H2I2J2K2L2M2N2O2P2Q2R2S2T2U2V2W2X2Y2Z3031323334
+#00213:00009B
+#00214:009E000000009F00009D0000
+#00215:00000000009F
+#00218:9F00009E009F009F0000009G
+#00221:82008A
+#00222:00008600008D
+#00223:00000083000000000000000000000000000000000000000000008B000000000000000000
+#00224:00000000000084000000000000000087000000000000000000000000000000008E000000
+#00225:00000000000000000088000000008C000000
+#00228:000000000000000000850000000000000000000000000000000000000000000000008F00
+#00229:000000000000008900000000
+
+#00302:0.015625
+#00304:55
+#00308:01
+#00316:A7
+
+#00402:0.015625
+#00404:56
+
+#00502:0.015625
+#00504:57
+
+#00602:0.015625
+#00604:58
+
+#00702:0.015625
+#00704:59
+
+#00802:0.015625
+#00804:5A
+
+#00902:0.015625
+#00904:5B
+
+#01002:0.015625
+#01004:5C
+
+#01102:0.015625
+#01104:5D
+
+#01202:0.015625
+#01204:5E
+
+#01302:0.015625
+#01304:5F
+
+#01402:0.015625
+#01404:5G
+
+#01502:0.015625
+#01504:5H
+
+#01602:0.015625
+#01604:5I
+
+#01702:0.015625
+#01704:5J
+
+#01801:A8
+#01802:0.015625
+#01804:5K
+
+#01904:5L5M5N5O5P5Q5R5S5T5U5V5W5X5Y5Z60000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
