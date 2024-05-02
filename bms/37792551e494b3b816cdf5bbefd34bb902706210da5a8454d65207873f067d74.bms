@@ -1,0 +1,2219 @@
+;Created by GDA Creator Professional Ver.0.23
+
+;Header
+#TITLE Dr.Genesis [DP HYPER]
+#ARTIST ‚Í‚ç‚½‚Ü / OJAGA
+#GENRE PROGRESSIVE METAL
+#BPM 240
+#PLAYLEVEL 9
+#RANK 2
+#PLAYER 3
+
+#WAV01 BD.ogg
+#WAV02 Close_100.ogg
+#WAV03 Close_60.ogg
+#WAV04 Close_70.ogg
+#WAV05 Close_80.ogg
+#WAV06 Crash_A.ogg
+#WAV07 Crash_B.ogg
+#WAV08 Open_100.ogg
+#WAV09 Open_60.ogg
+#WAV0A Open_70.ogg
+#WAV0B Open_80.ogg
+#WAV0C Ride_100.ogg
+#WAV0D Ride_60.ogg
+#WAV0E Ride_80.ogg
+#WAV0F Snare_100.ogg
+#WAV0G Snare_60.ogg
+#WAV0H Snare_70.ogg
+#WAV0I Snare_80.ogg
+#WAV0J Tam_A.ogg
+#WAV0K Tam_B.ogg
+#WAV0L Tam_C.ogg
+#WAV0N genesis_bgm - Region #1.ogg
+#WAV0O genesis_bgm - Region #2.ogg
+#WAV0P genesis_bgm - Region #3.ogg
+#WAV0Q RightGuitar_3 - Region #1.ogg
+#WAV0R RightGuitar_3 - Region #2.ogg
+#WAV0S RightGuitar_3 - Region #3.ogg
+#WAV0T RightGuitar_3 - Region #4.ogg
+#WAV0U RightGuitar_3 - Region #5.ogg
+#WAV0V RightGuitar_3 - Region #6.ogg
+#WAV0W RightGuitar_3 - Region #7.ogg
+#WAV0X RightGuitar_3 - Region #8.ogg
+#WAV0Y RightGuitar_3 - Region #9.ogg
+#WAV0Z RightGuitar_3 - Region #10.ogg
+#WAV10 RightGuitar_3 - Region #11.ogg
+#WAV11 RightGuitar_3 - Region #12.ogg
+#WAV12 RightGuitar_3 - Region #13.ogg
+#WAV13 RightGuitar_3 - Region #14.ogg
+#WAV14 RightGuitar_3 - Region #15.ogg
+#WAV15 RightGuitar_3 - Region #16.ogg
+#WAV16 RightGuitar_3 - Region #17.ogg
+#WAV17 RightGuitar_3 - Region #18.ogg
+#WAV18 RightGuitar_3 - Region #19.ogg
+#WAV19 RightGuitar_3 - Region #20.ogg
+#WAV1A RightGuitar_3 - Region #21.ogg
+#WAV1B RightGuitar_3 - Region #22.ogg
+#WAV1C RightGuitar_3 - Region #23.ogg
+#WAV1D RightGuitar_3 - Region #24.ogg
+#WAV1E RightGuitar_3 - Region #25.ogg
+#WAV1F RightGuitar_3 - Region #26.ogg
+#WAV1G RightGuitar_3 - Region #27.ogg
+#WAV1H RightGuitar_3 - Region #28.ogg
+#WAV1I RightGuitar_3 - Region #29.ogg
+#WAV1J RightGuitar_3 - Region #30.ogg
+#WAV1K RightGuitar_3 - Region #31.ogg
+#WAV1L RightGuitar_3 - Region #32.ogg
+#WAV1M RightGuitar_3 - Region #33.ogg
+#WAV1N RightGuitar_3 - Region #34.ogg
+#WAV1O RightGuitar_3 - Region #35.ogg
+#WAV1P RightGuitar_3 - Region #36.ogg
+#WAV1Q RightGuitar_3 - Region #37.ogg
+#WAV1R RightGuitar_3 - Region #38.ogg
+#WAV1S RightGuitar_3 - Region #39.ogg
+#WAV1T RightGuitar_3 - Region #40.ogg
+#WAV1U RightGuitar_3 - Region #41.ogg
+#WAV1V RightGuitar_3 - Region #42.ogg
+#WAV1W RightGuitar_3 - Region #43.ogg
+#WAV1Y readGuitar - Region #1.ogg
+#WAV1Z readGuitar - Region #2.ogg
+#WAV20 readGuitar - Region #3.ogg
+#WAV21 readGuitar - Region #4.ogg
+#WAV22 readGuitar - Region #5.ogg
+#WAV23 readGuitar - Region #6.ogg
+#WAV24 readGuitar - Region #7.ogg
+#WAV25 readGuitar - Region #8.ogg
+#WAV26 readGuitar - Region #9.ogg
+#WAV27 readGuitar - Region #10.ogg
+#WAV28 readGuitar - Region #10.ogg
+#WAV29 readGuitar - Region #11.ogg
+#WAV2A readGuitar - Region #12.ogg
+#WAV2B readGuitar - Region #13.ogg
+#WAV2C readGuitar - Region #14.ogg
+#WAV2D readGuitar - Region #15.ogg
+#WAV2E readGuitar - Region #16.ogg
+#WAV2F readGuitar - Region #17.ogg
+#WAV2G readGuitar - Region #18.ogg
+#WAV2H readGuitar - Region #19.ogg
+#WAV2I readGuitar - Region #20.ogg
+#WAV2J readGuitar - Region #21.ogg
+#WAV2K readGuitar - Region #22.ogg
+#WAV2L readGuitar - Region #23.ogg
+#WAV2M readGuitar - Region #24.ogg
+#WAV2N readGuitar - Region #25.ogg
+#WAV2O readGuitar - Region #26.ogg
+#WAV2P readGuitar - Region #27.ogg
+#WAV2Q readGuitar - Region #28.ogg
+#WAV2R readGuitar - Region #29.ogg
+#WAV2S readGuitar - Region #30.ogg
+#WAV2T readGuitar - Region #31.ogg
+#WAV2U readGuitar - Region #32.ogg
+#WAV2V readGuitar - Region #33.ogg
+#WAV2W readGuitar - Region #34.ogg
+#WAV2X readGuitar - Region #35.ogg
+#WAV2Y readGuitar - Region #36.ogg
+#WAV2Z readGuitar - Region #37.ogg
+#WAV30 readGuitar - Region #38.ogg
+#WAV31 readGuitar - Region #39.ogg
+#WAV32 readGuitar - Region #40.ogg
+#WAV33 readGuitar - Region #41.ogg
+#WAV34 readGuitar - Region #42.ogg
+#WAV35 readGuitar - Region #43.ogg
+#WAV36 readGuitar - Region #44.ogg
+#WAV37 readGuitar - Region #45.ogg
+#WAV38 readGuitar - Region #46.ogg
+#WAV39 readGuitar - Region #47.ogg
+#WAV3A readGuitar - Region #48.ogg
+#WAV3B readGuitar - Region #49.ogg
+#WAV3C readGuitar - Region #50.ogg
+#WAV3D readGuitar - Region #51.ogg
+#WAV3E readGuitar - Region #52.ogg
+#WAV3F readGuitar - Region #53.ogg
+#WAV3G readGuitar - Region #54.ogg
+#WAV3H readGuitar - Region #55.ogg
+#WAV3I readGuitar - Region #56.ogg
+#WAV3J readGuitar - Region #57.ogg
+#WAV3K readGuitar - Region #58.ogg
+#WAV3L readGuitar - Region #59.ogg
+#WAV3M readGuitar - Region #60.ogg
+#WAV3N readGuitar - Region #61.ogg
+#WAV3O readGuitar - Region #62.ogg
+#WAV3P readGuitar - Region #63.ogg
+#WAV3Q readGuitar - Region #64.ogg
+#WAV3R readGuitar - Region #65.ogg
+#WAV3S readGuitar - Region #66.ogg
+#WAV3T readGuitar - Region #67.ogg
+#WAV3U readGuitar - Region #68.ogg
+#WAV3V readGuitar - Region #69.ogg
+#WAV3W readGuitar - Region #70.ogg
+#WAV3X readGuitar - Region #71.ogg
+#WAV3Y readGuitar - Region #72.ogg
+#WAV3Z readGuitar - Region #73.ogg
+#WAV40 readGuitar - Region #74.ogg
+#WAV41 readGuitar - Region #75.ogg
+#WAV42 readGuitar - Region #76.ogg
+#WAV43 readGuitar - Region #77.ogg
+#WAV44 readGuitar - Region #78.ogg
+#WAV45 readGuitar - Region #79.ogg
+#WAV46 readGuitar - Region #80.ogg
+#WAV47 readGuitar - Region #81.ogg
+#WAV48 readGuitar - Region #82.ogg
+#WAV49 readGuitar - Region #83.ogg
+#WAV4A readGuitar - Region #84.ogg
+#WAV4B readGuitar - Region #85.ogg
+#WAV4C readGuitar - Region #86.ogg
+#WAV4D readGuitar - Region #87.ogg
+#WAV4E readGuitar - Region #88.ogg
+#WAV4F readGuitar - Region #89.ogg
+#WAV4G readGuitar - Region #90.ogg
+#WAV4H readGuitar - Region #91.ogg
+#WAV4I readGuitar - Region #92.ogg
+#WAV4J readGuitar - Region #93.ogg
+#WAV4K readGuitar - Region #94.ogg
+#WAV4L readGuitar - Region #95.ogg
+#WAV4M readGuitar - Region #96.ogg
+#WAV4N readGuitar - Region #97.ogg
+#WAV4O readGuitar - Region #98.ogg
+#WAV4P readGuitar - Region #99.ogg
+#WAV4Q readGuitar - Region #100.ogg
+#WAV4R readGuitar - Region #101.ogg
+#WAV4S readGuitar - Region #102.ogg
+#WAV4T readGuitar - Region #103.ogg
+#WAV4U readGuitar - Region #104.ogg
+#WAV4V readGuitar - Region #105.ogg
+#WAV4W readGuitar - Region #106.ogg
+#WAV4X readGuitar - Region #107.ogg
+#WAV4Y readGuitar - Region #108.ogg
+#WAV4Z readGuitar - Region #109.ogg
+#WAV50 readGuitar - Region #110.ogg
+#WAV51 readGuitar - Region #111.ogg
+#WAV52 readGuitar - Region #112.ogg
+#WAV53 readGuitar - Region #113.ogg
+#WAV54 readGuitar - Region #114.ogg
+#WAV55 readGuitar - Region #115.ogg
+#WAV56 readGuitar - Region #116.ogg
+#WAV57 readGuitar - Region #117.ogg
+#WAV58 readGuitar - Region #118.ogg
+#WAV59 readGuitar - Region #119.ogg
+#WAV5A readGuitar - Region #120.ogg
+#WAV5B readGuitar - Region #121.ogg
+#WAV5C readGuitar - Region #122.ogg
+#WAV5D readGuitar - Region #123.ogg
+#WAV5E readGuitar - Region #124.ogg
+#WAV5F readGuitar - Region #125.ogg
+#WAV5G readGuitar - Region #126.ogg
+#WAV5H readGuitar - Region #127.ogg
+#WAV5I readGuitar - Region #128.ogg
+#WAV5J readGuitar - Region #129.ogg
+#WAV5K readGuitar - Region #130.ogg
+#WAV5L readGuitar - Region #131.ogg
+#WAV5M readGuitar - Region #132.ogg
+#WAV5N readGuitar - Region #133.ogg
+#WAV5O readGuitar - Region #134.ogg
+#WAV5P readGuitar - Region #135.ogg
+#WAV5Q readGuitar - Region #136.ogg
+#WAV5R readGuitar - Region #137.ogg
+#WAV5S readGuitar - Region #138.ogg
+#WAV5T readGuitar - Region #139.ogg
+#WAV5U readGuitar - Region #140.ogg
+#WAV5V readGuitar - Region #141.ogg
+#WAV5W readGuitar - Region #142.ogg
+#WAV5X readGuitar - Region #143.ogg
+#WAV5Y readGuitar - Region #144.ogg
+#WAV5Z readGuitar - Region #145.ogg
+#WAV60 readGuitar - Region #146.ogg
+#WAV61 readGuitar - Region #147.ogg
+#WAV62 readGuitar - Region #148.ogg
+#WAV63 readGuitar - Region #149.ogg
+#WAV64 readGuitar - Region #150.ogg
+#WAV65 readGuitar - Region #151.ogg
+#WAV66 readGuitar - Region #152.ogg
+#WAV67 readGuitar - Region #153.ogg
+#WAV68 readGuitar - Region #154.ogg
+#WAV69 readGuitar - Region #155.ogg
+#WAV6A readGuitar - Region #156.ogg
+#WAV6B readGuitar - Region #157.ogg
+#WAV6C readGuitar - Region #158.ogg
+#WAV6D readGuitar - Region #159.ogg
+#WAV6E readGuitar - Region #160.ogg
+#WAV6F readGuitar - Region #161.ogg
+#WAV6G readGuitar - Region #162.ogg
+#WAV6H readGuitar - Region #163.ogg
+#WAV6I readGuitar - Region #164.ogg
+#WAV6J readGuitar - Region #165.ogg
+#WAV6K readGuitar - Region #166.ogg
+#WAV6L readGuitar - Region #167.ogg
+#WAV6M readGuitar - Region #168.ogg
+#WAV6N readGuitar - Region #169.ogg
+#WAV6O readGuitar - Region #170.ogg
+#WAV6P readGuitar - Region #171.ogg
+#WAV6Q readGuitar - Region #172.ogg
+#WAV6R readGuitar - Region #173.ogg
+#WAV6S readGuitar - Region #174.ogg
+#WAV6T readGuitar - Region #175.ogg
+#WAV6U readGuitar - Region #176.ogg
+#WAV6V readGuitar - Region #177.ogg
+#WAV6W readGuitar - Region #178.ogg
+#WAV6X readGuitar - Region #179.ogg
+#WAV6Y readGuitar - Region #180.ogg
+#WAV6Z readGuitar - Region #181.ogg
+#WAV70 readGuitar - Region #182.ogg
+#WAV71 readGuitar - Region #183.ogg
+#WAV72 readGuitar - Region #184.ogg
+#WAV73 readGuitar - Region #185.ogg
+#WAV74 readGuitar - Region #186.ogg
+#WAV75 readGuitar - Region #187.ogg
+#WAV76 readGuitar - Region #188.ogg
+#WAV77 readGuitar - Region #189.ogg
+#WAV78 readGuitar - Region #190.ogg
+#WAV79 readGuitar - Region #191.ogg
+#WAV7A readGuitar - Region #192.ogg
+#WAV7B readGuitar - Region #193.ogg
+#WAV7C readGuitar - Region #194.ogg
+#WAV7D readGuitar - Region #195.ogg
+#WAV7E readGuitar - Region #196.ogg
+#WAV7F readGuitar - Region #197.ogg
+#WAV7G readGuitar - Region #198.ogg
+#WAV7H readGuitar - Region #199.ogg
+#WAV7I readGuitar - Region #200.ogg
+#WAV7J readGuitar - Region #201.ogg
+#WAV7K readGuitar - Region #202.ogg
+#WAV7L readGuitar - Region #203.ogg
+#WAV7M readGuitar - Region #204.ogg
+#WAV7N readGuitar - Region #205.ogg
+#WAV7O readGuitar - Region #206.ogg
+#WAV7P readGuitar - Region #207.ogg
+#WAV7Q readGuitar - Region #208.ogg
+#WAV7R readGuitar - Region #209.ogg
+#WAV7S readGuitar - Region #210.ogg
+#WAV7T readGuitar - Region #211.ogg
+#WAV7U readGuitar - Region #212.ogg
+#WAV7V readGuitar - Region #213.ogg
+#WAV7W readGuitar - Region #214.ogg
+#WAV7X readGuitar - Region #215.ogg
+#WAV7Y readGuitar - Region #216.ogg
+#WAV7Z readGuitar - Region #217.ogg
+#WAV80 readGuitar - Region #218.ogg
+#WAV81 readGuitar - Region #219.ogg
+#WAV82 readGuitar - Region #220.ogg
+#WAV83 readGuitar - Region #221.ogg
+#WAV84 readGuitar - Region #222.ogg
+#WAV85 readGuitar - Region #223.ogg
+#WAV86 readGuitar - Region #224.ogg
+#WAV87 readGuitar - Region #225.ogg
+#WAV88 readGuitar - Region #226.ogg
+#WAV89 readGuitar - Region #227.ogg
+#WAV8A readGuitar - Region #228.ogg
+#WAV8B readGuitar - Region #229.ogg
+#WAV8C readGuitar - Region #230.ogg
+#WAV8D readGuitar - Region #231.ogg
+#WAV8E readGuitar - Region #232.ogg
+#WAV8F readGuitar - Region #233.ogg
+#WAV8G readGuitar - Region #234.ogg
+#WAV8H readGuitar - Region #235.ogg
+#WAV8I readGuitar - Region #236.ogg
+#WAV8J readGuitar - Region #237.ogg
+#WAV8K readGuitar - Region #238.ogg
+#WAV8L readGuitar - Region #239.ogg
+#WAV8M readGuitar - Region #240.ogg
+#WAV8N readGuitar - Region #241.ogg
+#WAV8O readGuitar - Region #242.ogg
+#WAV8P readGuitar - Region #243.ogg
+#WAV8Q readGuitar - Region #244.ogg
+#WAV8R readGuitar - Region #245.ogg
+#WAV8S readGuitar - Region #246.ogg
+#WAV8T readGuitar - Region #247.ogg
+#WAV8U readGuitar - Region #248.ogg
+#WAV8V readGuitar - Region #249.ogg
+#WAV8W readGuitar - Region #250.ogg
+#WAV8X readGuitar - Region #251.ogg
+#WAV8Y readGuitar - Region #252.ogg
+#WAV8Z readGuitar - Region #253.ogg
+#WAV90 readGuitar - Region #254.ogg
+#WAV91 readGuitar - Region #255.ogg
+#WAV92 readGuitar - Region #256.ogg
+#WAV93 readGuitar - Region #257.ogg
+#WAV94 readGuitar - Region #258.ogg
+#WAV95 readGuitar - Region #259.ogg
+#WAV96 readGuitar - Region #260.ogg
+#WAV97 readGuitar - Region #261.ogg
+#WAV98 readGuitar - Region #262.ogg
+#WAV99 readGuitar - Region #263.ogg
+#WAV9A readGuitar - Region #264.ogg
+#WAV9B readGuitar - Region #265.ogg
+#WAV9C readGuitar - Region #266.ogg
+#WAV9D readGuitar - Region #267.ogg
+#WAV9E readGuitar - Region #268.ogg
+#WAV9F readGuitar - Region #269.ogg
+#WAV9G readGuitar - Region #270.ogg
+#WAV9H readGuitar - Region #271.ogg
+#WAV9I readGuitar - Region #272.ogg
+#WAV9J readGuitar - Region #273.ogg
+#WAV9K readGuitar - Region #274.ogg
+#WAV9L readGuitar - Region #275.ogg
+#WAV9M readGuitar - Region #276.ogg
+#WAV9N readGuitar - Region #277.ogg
+#WAV9O readGuitar - Region #278.ogg
+#WAV9P readGuitar - Region #279.ogg
+#WAV9Q readGuitar - Region #280.ogg
+#WAV9R readGuitar - Region #281.ogg
+#WAV9S readGuitar - Region #282.ogg
+#WAV9T readGuitar - Region #283.ogg
+#WAV9U readGuitar - Region #284.ogg
+#WAV9V readGuitar - Region #285.ogg
+#WAV9W readGuitar - Region #286.ogg
+#WAV9X readGuitar - Region #287.ogg
+#WAV9Y readGuitar - Region #288.ogg
+#WAV9Z readGuitar - Region #289.ogg
+#WAVA0 readGuitar - Region #290.ogg
+#WAVA1 readGuitar - Region #291.ogg
+#WAVA2 readGuitar - Region #292.ogg
+#WAVA3 readGuitar - Region #293.ogg
+#WAVA4 readGuitar - Region #294.ogg
+#WAVA5 readGuitar - Region #295.ogg
+#WAVA6 readGuitar - Region #296.ogg
+#WAVA7 readGuitar - Region #297.ogg
+#WAVA8 readGuitar - Region #298.ogg
+#WAVA9 readGuitar - Region #299.ogg
+#WAVAA readGuitar - Region #300.ogg
+#WAVAB readGuitar - Region #301.ogg
+#WAVAC readGuitar - Region #302.ogg
+#WAVAD readGuitar - Region #303.ogg
+#WAVAE readGuitar - Region #304.ogg
+#WAVAF readGuitar - Region #305.ogg
+#WAVAG readGuitar - Region #306.ogg
+#WAVAH readGuitar - Region #307.ogg
+#WAVAI readGuitar - Region #308.ogg
+#WAVAJ readGuitar - Region #309.ogg
+#WAVAK readGuitar - Region #310.ogg
+#WAVAL readGuitar - Region #311.ogg
+#WAVAM readGuitar - Region #312.ogg
+#WAVAN readGuitar - Region #313.ogg
+#WAVAO readGuitar - Region #314.ogg
+#WAVAP readGuitar - Region #315.ogg
+#WAVAQ readGuitar - Region #316.ogg
+#WAVAR readGuitar - Region #317.ogg
+#WAVAS readGuitar - Region #318.ogg
+#WAVAT readGuitar - Region #319.ogg
+#WAVAU readGuitar - Region #320.ogg
+#WAVAV readGuitar - Region #321.ogg
+#WAVAW readGuitar - Region #322.ogg
+#WAVAX readGuitar - Region #323.ogg
+#WAVAY readGuitar - Region #324.ogg
+#WAVAZ readGuitar - Region #325.ogg
+#WAVB0 readGuitar - Region #326.ogg
+#WAVB1 readGuitar - Region #327.ogg
+#WAVB2 readGuitar - Region #328.ogg
+#WAVB3 readGuitar - Region #329.ogg
+#WAVB4 readGuitar - Region #330.ogg
+#WAVB5 readGuitar - Region #331.ogg
+#WAVB6 readGuitar - Region #332.ogg
+#WAVB7 readGuitar - Region #333.ogg
+#WAVB8 readGuitar - Region #334.ogg
+#WAVB9 readGuitar - Region #335.ogg
+#WAVBA readGuitar - Region #336.ogg
+#WAVBB readGuitar - Region #337.ogg
+#WAVBC readGuitar - Region #338.ogg
+#WAVBD readGuitar - Region #339.ogg
+#WAVBE readGuitar - Region #340.ogg
+#WAVBF readGuitar - Region #341.ogg
+#WAVBG readGuitar - Region #342.ogg
+#WAVBH readGuitar - Region #343.ogg
+#WAVBI readGuitar - Region #344.ogg
+#WAVBJ readGuitar - Region #345.ogg
+#WAVBK readGuitar - Region #346.ogg
+#WAVBL readGuitar - Region #347.ogg
+#WAVBM readGuitar - Region #348.ogg
+#WAVBN readGuitar - Region #349.ogg
+#WAVBO readGuitar - Region #350.ogg
+#WAVBP readGuitar - Region #351.ogg
+#WAVBQ readGuitar - Region #352.ogg
+#WAVBR readGuitar - Region #353.ogg
+#WAVBS readGuitar - Region #354.ogg
+#WAVBT readGuitar - Region #355.ogg
+#WAVBU readGuitar - Region #356.ogg
+#WAVBV readGuitar - Region #357.ogg
+#WAVBW readGuitar - Region #358.ogg
+#WAVBX readGuitar - Region #359.ogg
+#WAVBY readGuitar - Region #360.ogg
+#WAVBZ readGuitar - Region #361.ogg
+#WAVC0 readGuitar - Region #362.ogg
+#WAVC1 readGuitar - Region #363.ogg
+#WAVC2 readGuitar - Region #364.ogg
+#WAVC3 readGuitar - Region #365.ogg
+#WAVC4 readGuitar - Region #366.ogg
+#WAVC5 readGuitar - Region #367.ogg
+#WAVC6 readGuitar - Region #368.ogg
+#WAVC7 readGuitar - Region #369.ogg
+#WAVC8 readGuitar - Region #370.ogg
+#WAVC9 readGuitar - Region #371.ogg
+#WAVCA readGuitar - Region #372.ogg
+#WAVCB readGuitar - Region #373.ogg
+#WAVCC readGuitar - Region #374.ogg
+#WAVCD readGuitar - Region #375.ogg
+#WAVCE readGuitar - Region #376.ogg
+#WAVCF readGuitar - Region #377.ogg
+#WAVCG readGuitar - Region #378.ogg
+#WAVCH readGuitar - Region #379.ogg
+#WAVCI readGuitar - Region #380.ogg
+#WAVCJ readGuitar - Region #381.ogg
+#WAVCK readGuitar - Region #382.ogg
+#WAVCL readGuitar - Region #383.ogg
+#WAVCM readGuitar - Region #384.ogg
+#WAVCN readGuitar - Region #385.ogg
+#WAVCO readGuitar - Region #386.ogg
+#WAVCP readGuitar - Region #387.ogg
+#WAVCQ readGuitar - Region #388.ogg
+#WAVCR readGuitar - Region #389.ogg
+#WAVCS readGuitar - Region #390.ogg
+#WAVCT readGuitar - Region #391.ogg
+#WAVCU readGuitar - Region #392.ogg
+#WAVCV readGuitar - Region #393.ogg
+#WAVCW readGuitar - Region #394.ogg
+#WAVCX readGuitar - Region #395.ogg
+#WAVCY readGuitar - Region #396.ogg
+#WAVCZ readGuitar - Region #397.ogg
+#WAVD0 readGuitar - Region #398.ogg
+#WAVD1 readGuitar - Region #399.ogg
+#WAVD2 readGuitar - Region #400.ogg
+#WAVD3 readGuitar - Region #401.ogg
+#WAVD6 RightPiano_2 - Region #1.ogg
+#WAVD7 RightPiano_2 - Region #2.ogg
+#WAVD8 RightPiano_2 - Region #3.ogg
+#WAVD9 RightPiano_2 - Region #4.ogg
+#WAVDA RightPiano_2 - Region #5.ogg
+#WAVDB RightPiano_2 - Region #6.ogg
+#WAVDC RightPiano_2 - Region #7.ogg
+#WAVDD RightPiano_2 - Region #8.ogg
+#WAVDE RightPiano_2 - Region #9.ogg
+#WAVDF RightPiano_2 - Region #10.ogg
+#WAVDG RightPiano_2 - Region #11.ogg
+#WAVDH RightPiano_2 - Region #12.ogg
+#WAVDI RightPiano_2 - Region #13.ogg
+#WAVDJ RightPiano_2 - Region #14.ogg
+#WAVDK RightPiano_2 - Region #15.ogg
+#WAVDL RightPiano_2 - Region #16.ogg
+#WAVDM RightPiano_2 - Region #17.ogg
+#WAVDN RightPiano_2 - Region #18.ogg
+#WAVDO RightPiano_2 - Region #19.ogg
+#WAVDP RightPiano_2 - Region #20.ogg
+#WAVDQ RightPiano_2 - Region #21.ogg
+#WAVDR RightPiano_2 - Region #22.ogg
+#WAVDS RightPiano_2 - Region #23.ogg
+#WAVDT RightPiano_2 - Region #24.ogg
+#WAVDU RightPiano_2 - Region #25.ogg
+#WAVDV RightPiano_2 - Region #26.ogg
+#WAVDW RightPiano_2 - Region #27.ogg
+#WAVDX RightPiano_2 - Region #28.ogg
+#WAVDY RightPiano_2 - Region #29.ogg
+#WAVDZ RightPiano_2 - Region #30.ogg
+#WAVE0 RightPiano_2 - Region #31.ogg
+#WAVE1 RightPiano_2 - Region #32.ogg
+#WAVE2 RightPiano_2 - Region #33.ogg
+#WAVE3 RightPiano_2 - Region #34.ogg
+#WAVE4 RightPiano_2 - Region #35.ogg
+#WAVE5 RightPiano_2 - Region #36.ogg
+#WAVE6 RightPiano_2 - Region #37.ogg
+#WAVE7 RightPiano_2 - Region #38.ogg
+#WAVE8 RightPiano_2 - Region #39.ogg
+#WAVE9 RightPiano_2 - Region #40.ogg
+#WAVEA RightPiano_2 - Region #41.ogg
+#WAVEB RightPiano_2 - Region #42.ogg
+#WAVEC RightPiano_2 - Region #43.ogg
+#WAVED RightPiano_2 - Region #44.ogg
+#WAVEE RightPiano_2 - Region #45.ogg
+#WAVEF RightPiano_2 - Region #46.ogg
+#WAVEG RightPiano_2 - Region #47.ogg
+#WAVEH RightPiano_2 - Region #48.ogg
+#WAVEI RightPiano_2 - Region #49.ogg
+#WAVEJ RightPiano_2 - Region #50.ogg
+#WAVEK RightPiano_2 - Region #51.ogg
+#WAVEL RightPiano_2 - Region #52.ogg
+#WAVEM RightPiano_2 - Region #53.ogg
+#WAVEN RightPiano_2 - Region #54.ogg
+#WAVEO RightPiano_2 - Region #55.ogg
+#WAVEP RightPiano_2 - Region #56.ogg
+#WAVEQ RightPiano_2 - Region #57.ogg
+#WAVER RightPiano_2 - Region #58.ogg
+#WAVES RightPiano_2 - Region #59.ogg
+#WAVET RightPiano_2 - Region #60.ogg
+#WAVEU RightPiano_2 - Region #61.ogg
+#WAVEV RightPiano_2 - Region #62.ogg
+#WAVEW RightPiano_2 - Region #63.ogg
+#WAVEX RightPiano_2 - Region #64.ogg
+#WAVEY RightPiano_2 - Region #65.ogg
+#WAVEZ RightPiano_2 - Region #66.ogg
+#WAVF0 RightPiano_2 - Region #67.ogg
+#WAVF1 RightPiano_2 - Region #68.ogg
+#WAVF2 RightPiano_2 - Region #69.ogg
+#WAVF3 RightPiano_2 - Region #70.ogg
+#WAVF4 RightPiano_2 - Region #71.ogg
+#WAVF5 RightPiano_2 - Region #72.ogg
+#WAVF6 RightPiano_2 - Region #73.ogg
+#WAVF7 RightPiano_2 - Region #74.ogg
+#WAVF8 RightPiano_2 - Region #75.ogg
+#WAVF9 RightPiano_2 - Region #76.ogg
+#WAVFA RightPiano_2 - Region #77.ogg
+#WAVFB RightPiano_2 - Region #78.ogg
+#WAVFC RightPiano_2 - Region #79.ogg
+#WAVFD RightPiano_2 - Region #80.ogg
+#WAVFE RightPiano_2 - Region #81.ogg
+#WAVFF RightPiano_2 - Region #82.ogg
+#WAVFG RightPiano_2 - Region #83.ogg
+#WAVFH RightPiano_2 - Region #84.ogg
+#WAVFI RightPiano_2 - Region #85.ogg
+#WAVFJ RightPiano_2 - Region #86.ogg
+#WAVFK RightPiano_2 - Region #87.ogg
+#WAVFL RightPiano_2 - Region #88.ogg
+#WAVFM RightPiano_2 - Region #89.ogg
+#WAVFN RightPiano_2 - Region #90.ogg
+#WAVFO RightPiano_2 - Region #91.ogg
+#WAVFP RightPiano_2 - Region #92.ogg
+#WAVFQ RightPiano_2 - Region #93.ogg
+#WAVFR RightPiano_2 - Region #94.ogg
+#WAVFS RightPiano_2 - Region #95.ogg
+#WAVFT RightPiano_2 - Region #96.ogg
+#WAVFU RightPiano_2 - Region #97.ogg
+#WAVFV RightPiano_2 - Region #98.ogg
+#WAVFW RightPiano_2 - Region #99.ogg
+#WAVFX RightPiano_2 - Region #100.ogg
+#WAVFY RightPiano_2 - Region #101.ogg
+#WAVFZ RightPiano_2 - Region #102.ogg
+#WAVG0 RightPiano_2 - Region #103.ogg
+#WAVG1 RightPiano_2 - Region #104.ogg
+#WAVG2 RightPiano_2 - Region #105.ogg
+#WAVG3 RightPiano_2 - Region #106.ogg
+#WAVG4 RightPiano_2 - Region #107.ogg
+#WAVG5 RightPiano_2 - Region #108.ogg
+#WAVG6 RightPiano_2 - Region #109.ogg
+#WAVG7 RightPiano_2 - Region #110.ogg
+#WAVG8 RightPiano_2 - Region #111.ogg
+#WAVG9 RightPiano_2 - Region #112.ogg
+#WAVGA RightPiano_2 - Region #113.ogg
+#WAVGB RightPiano_2 - Region #114.ogg
+#WAVGC RightPiano_2 - Region #115.ogg
+#WAVGD RightPiano_2 - Region #116.ogg
+#WAVGE RightPiano_2 - Region #117.ogg
+#WAVGF RightPiano_2 - Region #118.ogg
+#WAVGG RightPiano_2 - Region #119.ogg
+#WAVGH RightPiano_2 - Region #120.ogg
+#WAVGI RightPiano_2 - Region #121.ogg
+#WAVGJ RightPiano_2 - Region #122.ogg
+#WAVGK RightPiano_2 - Region #123.ogg
+#WAVGL RightPiano_2 - Region #124.ogg
+#WAVGM RightPiano_2 - Region #125.ogg
+#WAVGN RightPiano_2 - Region #126.ogg
+#WAVGO RightPiano_2 - Region #127.ogg
+#WAVGP RightPiano_2 - Region #128.ogg
+#WAVGQ RightPiano_2 - Region #129.ogg
+#WAVGR RightPiano_2 - Region #130.ogg
+#WAVGS RightPiano_2 - Region #131.ogg
+#WAVGT RightPiano_2 - Region #132.ogg
+#WAVGU RightPiano_2 - Region #133.ogg
+#WAVGV RightPiano_2 - Region #134.ogg
+#WAVGW RightPiano_2 - Region #135.ogg
+#WAVGX RightPiano_2 - Region #136.ogg
+#WAVGY RightPiano_2 - Region #137.ogg
+#WAVGZ RightPiano_2 - Region #138.ogg
+#WAVH0 RightPiano_2 - Region #139.ogg
+#WAVH1 RightPiano_2 - Region #140.ogg
+#WAVH2 RightPiano_2 - Region #141.ogg
+#WAVH3 RightPiano_2 - Region #142.ogg
+#WAVH4 RightPiano_2 - Region #143.ogg
+#WAVH5 RightPiano_2 - Region #144.ogg
+#WAVH6 RightPiano_2 - Region #145.ogg
+#WAVH7 RightPiano_2 - Region #146.ogg
+#WAVH8 RightPiano_2 - Region #147.ogg
+#WAVH9 RightPiano_2 - Region #148.ogg
+#WAVHA RightPiano_2 - Region #149.ogg
+#WAVHB RightPiano_2 - Region #150.ogg
+#WAVHC RightPiano_2 - Region #151.ogg
+#WAVHD RightPiano_2 - Region #152.ogg
+#WAVHE RightPiano_2 - Region #153.ogg
+#WAVHF RightPiano_2 - Region #154.ogg
+#WAVHG RightPiano_2 - Region #155.ogg
+#WAVHH RightPiano_2 - Region #156.ogg
+#WAVHI RightPiano_2 - Region #157.ogg
+#WAVHJ RightPiano_2 - Region #158.ogg
+#WAVHK RightPiano_2 - Region #159.ogg
+#WAVHL RightPiano_2 - Region #160.ogg
+#WAVHM RightPiano_2 - Region #161.ogg
+#WAVHN RightPiano_2 - Region #162.ogg
+#WAVHO RightPiano_2 - Region #163.ogg
+#WAVHP RightPiano_2 - Region #164.ogg
+#WAVHQ RightPiano_2 - Region #165.ogg
+#WAVHR RightPiano_2 - Region #166.ogg
+#WAVHS RightPiano_2 - Region #167.ogg
+#WAVHT RightPiano_2 - Region #168.ogg
+#WAVHU RightPiano_2 - Region #169.ogg
+#WAVHV RightPiano_2 - Region #170.ogg
+#WAVHW RightPiano_2 - Region #171.ogg
+#WAVHX RightPiano_2 - Region #172.ogg
+#WAVHY RightPiano_2 - Region #173.ogg
+#WAVHZ RightPiano_2 - Region #174.ogg
+#WAVI0 RightPiano_2 - Region #175.ogg
+#WAVI1 RightPiano_2 - Region #176.ogg
+#WAVI2 RightPiano_2 - Region #177.ogg
+#WAVI3 RightPiano_2 - Region #178.ogg
+#WAVI4 RightPiano_2 - Region #179.ogg
+#WAVI5 RightPiano_2 - Region #180.ogg
+#WAVI6 RightPiano_2 - Region #181.ogg
+#WAVI7 RightPiano_2 - Region #182.ogg
+#WAVI8 RightPiano_2 - Region #183.ogg
+#WAVI9 RightPiano_2 - Region #184.ogg
+#WAVIA RightPiano_2 - Region #185.ogg
+#WAVIB RightPiano_2 - Region #186.ogg
+#WAVIC RightPiano_2 - Region #187.ogg
+#WAVID RightPiano_2 - Region #188.ogg
+#WAVIE RightPiano_2 - Region #189.ogg
+#WAVIF RightPiano_2 - Region #190.ogg
+#WAVIG RightPiano_2 - Region #191.ogg
+#WAVIH RightPiano_2 - Region #192.ogg
+#WAVII RightPiano_2 - Region #193.ogg
+#WAVIJ RightPiano_2 - Region #194.ogg
+#WAVIK RightPiano_2 - Region #195.ogg
+#WAVIL RightPiano_2 - Region #196.ogg
+#WAVIM RightPiano_2 - Region #197.ogg
+#WAVIN RightPiano_2 - Region #198.ogg
+#WAVIO RightPiano_2 - Region #199.ogg
+#WAVIP RightPiano_2 - Region #200.ogg
+#WAVIQ RightPiano_2 - Region #201.ogg
+#WAVIR RightPiano_2 - Region #202.ogg
+#WAVIS RightPiano_2 - Region #203.ogg
+#WAVIT RightPiano_2 - Region #204.ogg
+#WAVIU RightPiano_2 - Region #205.ogg
+#WAVIV RightPiano_2 - Region #206.ogg
+#WAVIW RightPiano_2 - Region #207.ogg
+#WAVIX RightPiano_2 - Region #208.ogg
+#WAVIY RightPiano_2 - Region #209.ogg
+#WAVIZ RightPiano_2 - Region #210.ogg
+#WAVJ0 RightPiano_2 - Region #211.ogg
+#WAVJ1 RightPiano_2 - Region #212.ogg
+#WAVJ2 RightPiano_2 - Region #213.ogg
+#WAVJ3 RightPiano_2 - Region #215.ogg
+#WAVJ4 RightPiano_2 - Region #216.ogg
+#WAVJ5 RightPiano_2 - Region #217.ogg
+#WAVJ6 RightPiano_2 - Region #218.ogg
+#WAVJ7 RightPiano_2 - Region #219.ogg
+#WAVJ8 RightPiano_2 - Region #220.ogg
+#WAVJ9 RightPiano_2 - Region #221.ogg
+#WAVJA RightPiano_2 - Region #222.ogg
+#WAVJB RightPiano_2 - Region #223.ogg
+#WAVJC RightPiano_2 - Region #224.ogg
+#WAVJD RightPiano_2 - Region #225.ogg
+#WAVJE RightPiano_2 - Region #226.ogg
+#WAVJF RightPiano_2 - Region #227.ogg
+#WAVJG RightPiano_2 - Region #228.ogg
+#WAVJH RightPiano_2 - Region #229.ogg
+#WAVJI RightPiano_2 - Region #230.ogg
+#WAVJJ RightPiano_2 - Region #231.ogg
+#WAVJK RightPiano_2 - Region #232.ogg
+#WAVJL RightPiano_2 - Region #233.ogg
+#WAVJM RightPiano_2 - Region #234.ogg
+#WAVJN RightPiano_2 - Region #235.ogg
+#WAVJO RightPiano_2 - Region #236.ogg
+#WAVJP RightPiano_2 - Region #237.ogg
+#WAVJQ RightPiano_2 - Region #238.ogg
+#WAVJR RightPiano_2 - Region #239.ogg
+#WAVJS RightPiano_2 - Region #240.ogg
+#WAVJT RightPiano_2 - Region #241.ogg
+#WAVJU RightPiano_2 - Region #242.ogg
+#WAVJV RightPiano_2 - Region #243.ogg
+#WAVJW RightPiano_2 - Region #244.ogg
+#WAVJX RightPiano_2 - Region #245.ogg
+#WAVJY RightPiano_2 - Region #247.ogg
+#WAVJZ RightPiano_2 - Region #248.ogg
+#WAVK0 RightPiano_2 - Region #249.ogg
+#WAVK1 RightPiano_2 - Region #250.ogg
+#WAVK2 RightPiano_2 - Region #251.ogg
+#WAVK3 RightPiano_2 - Region #252.ogg
+#WAVK4 RightPiano_2 - Region #253.ogg
+#WAVK5 RightPiano_2 - Region #254.ogg
+#WAVK6 RightPiano_2 - Region #255.ogg
+#WAVK7 RightPiano_2 - Region #256.ogg
+#WAVK8 RightPiano_2 - Region #257.ogg
+#WAVK9 RightPiano_2 - Region #258.ogg
+#WAVKA RightPiano_2 - Region #259.ogg
+#WAVKB RightPiano_2 - Region #260.ogg
+#WAVKC RightPiano_2 - Region #261.ogg
+#WAVKD RightPiano_2 - Region #262.ogg
+#WAVKE RightPiano_2 - Region #263.ogg
+#WAVKG RightPiano_2 - Marker #214.ogg
+#WAVKH RightPiano_2 - Marker #246.ogg
+
+#BMP01 Genesis.bmp
+
+*---------------------- HEADER FIELD
+#TOTAL 400
+#DIFFICULTY 3
+*---------------------- MAIN DATA FIELD
+
+
+
+;Part 1
+#00311:01
+#00411:0001010000000000
+#00413:0005020000000000
+#00511:0000000100000100
+#00513:0000000J00000J00
+#00515:000B0000000K0000
+#00519:000L
+#00611:0100000100000100
+#00615:00000D00000D000E
+#00619:0000000E00000E00
+#00711:0001000100000100
+#00713:0003
+#00715:0000000500000000
+#00811:0001000100000000
+#00813:00000000000I000J
+#00815:000C00000H000F00
+#00819:0E
+#00911:0000000F00000000
+#00914:0005000005000005
+#00915:00000008
+#00918:00040000
+#00919:0000000000040000
+#01011:0F00000F
+#01014:0005000005000000
+#01015:00000008
+#01018:0000000200000000
+#01111:00000F000000000F
+#01113:0000000500000000
+#01114:050L
+#01118:00040000000L0000
+#01119:0000000J
+#01211:0000000F00000000
+#01213:0000000000000005
+#01214:0005000005000000
+#01215:00000008
+#01218:0000040000040000
+#01311:0F00000F
+#01313:0005000005000000
+#01315:00000008
+#01318:0000000200000000
+#01411:000F0000
+#01412:001R
+#01413:0003000300000000
+#01414:00001T
+#01418:00000000001V
+#01419:05
+#01511:0100000000010000
+#01513:0001000000000000
+#01519:06
+#01611:0100000100000000
+#01613:0000010000000001
+#01711:01010100
+#01713:0000000000010000
+#01719:0006
+#01811:0001000001000100
+#01813:0000000000000001
+#01911:0001000001000000
+#01919:0006000000000000
+#02011:0100000000010000
+#02013:0001000000000000
+#02019:06
+#02111:0000010000000001
+#02113:0000000100000000
+#02211:00010100
+#02213:0000000000010000
+#02219:0007
+#02311:0001000001000100
+#02313:0000000000000001
+#02411:0001000001000000
+#02512:0000003A00000000
+#02515:39
+#02518:000000000000003C
+#02519:0000003B
+#02611:003F0000
+#02612:003E0000003G0000
+#02614:3D
+#02711:000000003L00003M
+#02713:0000003K00000000
+#02714:003J0000
+#02718:003I000000000000
+#02719:3H
+#02811:0000003T
+#02812:00000000003S0000
+#02813:3N
+#02814:003R
+#02815:003O000000000000
+#02818:0000003Q00000000
+#02819:003P0000
+#02912:0000003Y
+#02913:003U000000000000
+#02914:003V0000
+#02918:0000003W00000000
+#02919:003X
+#03012:0000004000000000
+#03014:3Z
+#03018:0000000000000042
+#03019:00000041
+#03111:00450000
+#03112:0044000000460000
+#03114:43
+#03211:004B
+#03212:000000000000004C
+#03213:0000004A00000000
+#03214:00490000
+#03218:0048000000000000
+#03219:47
+#03312:0000004G
+#03313:004D0000
+#03315:0000004E00000000
+#03319:004F
+#03414:004H000000000000
+#03418:004I
+#03513:004L0000
+#03514:000000000000004Q
+#03515:004K000000000000
+#03518:0000004P
+#03519:4J
+#03612:4R
+#03613:0000004X
+#03615:00000000004W0000
+#03619:004V
+#03712:0053
+#03714:0000005200000000
+#03718:00510000
+#03813:00590000
+#03814:000000000000005E
+#03815:0058000000000000
+#03818:0000005D
+#03819:57
+#03916:0006000000000000
+#03912:5F00005L
+#03915:00000000005K0000
+#03919:005J
+#04014:005R
+#04015:0000005Q00000000
+#04019:005P0000
+#04112:005X0000
+#04114:0000000000000062
+#04115:005W000000000000
+#04118:00000061
+#04119:5V
+#04211:63
+#04213:00000069
+#04214:0000000000680000
+#04218:0067
+#04311:006D0000
+#04313:006F
+#04315:0000006E00000000
+#04411:0000006P
+#04412:6J
+#04414:006L0000
+#04415:000000000000006Q
+#04418:006K000000000000
+#04512:006V
+#04513:6R
+#04514:0000006X
+#04518:00000000006W0000
+#04611:00710000
+#04613:0073
+#04615:0000007200000000
+#04716:0000000600000000
+#04712:770000000000007E
+#04714:00790000
+#04715:0000007D
+#04718:0078000000000000
+#04812:00000000007K0000
+#04815:007J
+#04818:7F00007L
+#04912:0000007Q00000000
+#04915:007P0000
+#04918:007R
+#05012:007W000000000082
+#05015:7V000081
+#05019:007X0000
+#05112:0000000000880000
+#05115:0087
+#05119:83000089
+#05211:01010001
+#05213:0000000000010000
+#05219:06
+#05311:00010100
+#05313:0001000000000001
+#05411:01000101
+#05413:0000000100000000
+#05419:0006
+#05511:00010001
+#05513:0001000000010000
+#05519:00000007
+#05611:01010001
+#05619:06
+#05711:0100000000010000
+#05713:0001000000000000
+#05719:06
+#05811:01010001
+#05911:0000010000000001
+#05913:0000000100000000
+#05919:00060000
+#06011:00010100
+#06114:009L
+#06115:000000000000009M
+#06211:0000009R
+#06212:009Q
+#06213:00009P000000009S
+#06215:009O000000000000
+#06219:9N
+#06311:0000009W00000000
+#06313:00009V009X00009Z
+#06314:009U000000000000
+#06318:9T
+#06319:0000009Y
+#06411:A0
+#06412:000000A5
+#06414:0000A10000A40000
+#06415:00A3
+#06419:000000A200000000
+#06511:00A7000000000000
+#06515:A6A80000
+#06518:000000000000000000A9000000000000
+#06519:000000000000000000000000000000AA
+#06611:00AB0000
+#06612:00AC
+#06613:00000000000000AD
+#06712:00AG00AK
+#06714:000000AH00AJ0000
+#06715:AE
+#06718:00AI
+#06719:00AF000000000000
+#06811:0000000000AO0000
+#06812:00AL00000000AP00
+#06814:00000000000000AQ
+#06815:00AN
+#06819:000000AM00000000
+#06913:00AT0000
+#06914:000000AU00000000
+#06915:0000000000AV0000
+#06918:AR000000000000AW
+#06919:00AS000000000000
+#07012:00000000000000HX
+#07014:0000000L
+#07018:00000000000F0000
+#07019:AX0000000I00000J
+#07111:IY
+#07113:00IZ000000000000
+#07114:00J00000
+#07118:000000J100000000
+#07119:000000J2
+#07212:00J30000
+#07214:000000J400000000
+#07215:00J5
+#07218:KG
+#07219:0000000000J60000
+#07311:00J9
+#07312:0000000000JA0000
+#07314:000000JB
+#07315:00000000000000JC
+#07318:00J80000
+#07319:J7
+#07414:000000JF
+#07415:00JE
+#07418:00JD0000
+#07511:000000JI
+#07512:00JH
+#07513:00JG000000000000
+#07611:00JK000000000000
+#07613:JJJL0000
+#07614:000000JM00000000
+#07618:00JN
+#07619:000000JO
+#07712:000000JR00000000
+#07714:00JQJS00
+#07715:0000000000JT0000
+#07718:JP
+#07719:000000JU
+#07811:0000000000KH0000
+#07813:0000JXJY
+#07814:00000000000000JZ
+#07815:00JW0000
+#07818:JV
+#07913:00000000000000K4
+#07915:00K100K3
+#07918:K0
+#07919:00K2
+#08011:00000000000000KC
+#08012:000000KB
+#08013:0000000000KA0000
+#08014:00K9
+#08015:K50000K800000000
+#08018:00K70000
+#08019:00K6000000000000
+#08111:000000C2
+#08112:0000000000C100C3
+#08113:00C0
+#08114:000000BZ00000000
+#08115:00BY0000
+#08118:00BX000000000000
+#08119:BW
+#08214:00C4000000000000
+#08218:00C50000
+#08311:00000000000000C9
+#08313:000000C8
+#08315:0000000000C70000
+#08319:00C6
+#08412:CA0000CF
+#08414:00CB000000000000
+#08415:0000000000CE0000
+#08418:00CC0000
+#08419:000000CD00000000
+#08514:000000CI
+#08515:00CH
+#08518:00CG000000000000
+#08611:06
+#08612:000000CK00000000
+#08613:CJ0000CL
+#08711:CM
+#08712:0000000000CP0000
+#08713:00CN000000000000
+#08715:00CO0000
+#08811:0006
+#08813:000000CS00000000
+#08814:CQ
+#08815:00CR0000
+#08818:00000000000000CU
+#08819:00CT
+#08912:0000000000CX0000
+#08914:0000CWCY
+#08915:00CV0000
+#09012:00D0
+#09013:00CZ000000000000
+#09014:0000000000D10000
+#09018:000000D2
+#09111:06
+#09119:D3
+
+
+;Part 2
+#00323:D60000D70000D800
+#00329:06
+#00422:000000DA0000DB00
+#00423:D9
+#00521:00DD0000DE00DF00
+#00522:DC
+#00623:DG0000DH0000DI00
+#00629:06
+#00722:000000DK0000DL00
+#00723:DJ
+#00729:0006000000000600
+#00822:DM
+#00824:00DN0000DO00DP00
+#00829:0000000600000000
+#00923:DQ0000DR0000DS00
+#00929:06
+#01022:000000DU0000DV00
+#01023:DT
+#01029:0000060000060000
+#01121:00DX0000DY00DZ00
+#01122:DW
+#01223:E00000E10000E200
+#01229:06
+#01322:000000E40000E500
+#01323:E3
+#01329:0000060000060000
+#01421:00000000000000000000001W
+#01422:E6
+#01423:0000001U
+#01424:00E7000000000000
+#01425:000000000000001S00000000
+#01522:0000001Z00000000
+#01525:1Y
+#01528:0000000000000021
+#01529:00000020
+#01621:00240000
+#01622:0023000000250000
+#01624:22
+#01721:000000002B00002C
+#01723:0000002A00000000
+#01724:00290000
+#01728:0027000000000000
+#01729:26
+#01821:0000002J
+#01822:00000000002I0000
+#01823:2D
+#01824:002H
+#01825:002E000000000000
+#01828:0000002G00000000
+#01829:002F0000
+#01922:002K000000000000
+#01923:0000002O
+#01924:002L0000
+#01928:0000002M00000000
+#01929:002N
+#02022:0000002Q00000000
+#02024:2P
+#02028:000000000000002S
+#02029:0000002R
+#02121:002V0000
+#02122:002U0000002W0000
+#02124:2T
+#02221:0000000031000032
+#02223:0000003000000000
+#02224:002Z0000
+#02228:002Y000000000000
+#02229:2X
+#02322:00330000
+#02324:0000003400000000
+#02325:0035
+#02328:00000036
+#02425:0037000000000000
+#02429:0038
+#02521:0100000000010000
+#02523:0001000000000000
+#02529:06
+#02621:01010000
+#02623:0000000100000001
+#02721:01010100
+#02723:0000000000010000
+#02729:0006
+#02821:0001000001000100
+#02823:0000000000000001
+#02921:0100000100000000
+#02923:0000000000000001
+#02929:06
+#03021:0101
+#03029:06
+#03121:00010001
+#03123:0001000000000000
+#03221:0001000001000000
+#03223:0000000100000000
+#03229:0000000700000000
+#03321:0001000001000100
+#03323:0000000000000001
+#03421:0001000001000000
+#03522:0000004M00000000
+#03524:004N
+#03528:00000000004O0000
+#03526:06
+#03621:004S000000000000
+#03622:000000000000004Y
+#03623:004T0000
+#03625:0000004U00000000
+#03721:0000000000540000
+#03723:00000055
+#03724:4Z
+#03725:0000000000000056
+#03728:0050000000000000
+#03822:0000005A00000000
+#03824:005B
+#03828:00000000005C0000
+#03921:005G00000000005M
+#03923:005H0000
+#03928:0000005I00000000
+#04021:00000000005S0000
+#04023:5N00005T
+#04024:005O000000000000
+#04028:000000000000005U
+#04121:0000005Y00000000
+#04123:005Z
+#04124:0000000000600000
+#04222:006400000000006A
+#04224:00650000
+#04229:0000006600000000
+#04321:00000000006G0000
+#04323:000000000000006I
+#04324:6B
+#04325:006C000000006H00
+#04326:00060000
+#04422:0000006M00000000
+#04424:00000000006O0000
+#04428:006N
+#04521:006S000000000000
+#04522:000000000000006Y
+#04523:0000006U00000000
+#04525:006T0000
+#04621:0000000000740000
+#04623:0000000000000076
+#04624:0070000000000000
+#04625:00000075
+#04628:6Z
+#04723:0000007A00000000
+#04724:00000000007C0000
+#04729:007B
+#04823:007G00000000007M
+#04824:0000007I00000000
+#04829:007H0000
+#04923:00000000007S0000
+#04924:007O00000000007U
+#04928:0000007T
+#04929:7N
+#05023:0000007Y00000000
+#05024:0000000000800000
+#05028:007Z
+#05123:0084000000000000
+#05124:0000008600000000
+#05128:00850000
+#05223:0000008E
+#05224:8A
+#05225:0000008B008D0000
+#05229:008C
+#05321:008G0000
+#05322:8F8H
+#05324:00000000008I0000
+#05325:0000008J
+#05329:000000000000008K
+#05421:008O
+#05422:0000008P
+#05423:0000008N00000000
+#05425:8L
+#05428:008M0000
+#05429:000000000000008Q
+#05521:00000000008V0000
+#05522:008T0000
+#05524:008S000000000000
+#05525:8R
+#05528:00008U8W
+#05623:0000008Z
+#05624:008X000000000000
+#05625:000000000000008Y0000000000000000
+#05721:90
+#05722:0000009100000000
+#05723:00000094
+#05724:0092
+#05728:0000000000930000
+#05821:00970000
+#05823:0000000000980000
+#05825:0096000000000000
+#05828:0000000000000099
+#05829:95
+#05921:009B000000000000
+#05922:009C0000
+#05923:000000000000009G
+#05924:9A00009D00000000
+#05928:009E
+#05929:00000000009F0000
+#06022:009H000000000000
+#06023:0000009J00000000
+#06028:009I0000
+#06029:0000009K
+#06121:00000101
+#06123:0000000100000000
+#06129:0006
+#06221:00010001
+#06223:0001000000010000
+#06321:0101
+#06323:0000000100000001
+#06421:01010001
+#06423:0000000000010000
+#06429:06
+#06521:00010101
+#06523:0001000000000000
+#06529:00060000
+#06621:0001
+#06623:0000000000010000
+#06629:0007
+#06721:0001000001000100
+#06821:00010001
+#06823:0000000000000001
+#06829:00000007
+#06921:0000000100000100
+#07021:0100000001000001
+#07022:0000000000AY0000
+#07024:000000AZ
+#07028:00000000000000B0
+#07121:0000000F
+#07123:00030B00
+#07125:0005000400000000
+#07129:0000000000000003
+#07126:06
+#07221:00000000000F0000
+#07223:00000505
+#07224:0L
+#07225:00080000
+#07228:000K000000000000
+#07321:0I
+#07323:000000000000000E
+#07325:000K000D
+#07329:000L000J00000000
+#07326:0006
+#07421:000F0000
+#07422:000000000000000L
+#07423:000D000E00000000
+#07424:0000000K
+#07425:0C0C0L00
+#07428:00000000000K0000
+#07521:0F000000000F0000
+#07522:0000000K
+#07523:0000000000000000000H000000000000
+#07524:000K00000000000J
+#07525:000G
+#07528:000J0000
+#07621:0000000F
+#07623:000004000B000002
+#07625:0005000300000000
+#07626:06
+#07721:00000000000F0000
+#07723:00000505
+#07724:0L
+#07725:00080000
+#07728:000K000000000000
+#07821:0I
+#07822:0000000J00000000
+#07823:000000000000000E
+#07824:000K0000
+#07825:0000000D
+#07828:000L000000000000
+#07826:0006
+#07921:000F0000
+#07922:000000000000000L
+#07923:000D000E00000000
+#07924:0000000K
+#07925:0C0C0L00
+#07928:00000000000K0000
+#08021:0F000000000F0000
+#08022:0000000K
+#08023:0000000000000000000H000000000000
+#08024:000K00000000000J
+#08025:000G
+#08028:000J0000
+#08121:06
+#08123:IY
+#08124:00IZ000000000000
+#08125:00J00000
+#08128:000000J100000000
+#08129:000000J2
+#08222:00J30000
+#08223:000000J400000000
+#08224:00J5
+#08225:KG00000000J60000
+#08321:00J9
+#08322:0000000000JA0000
+#08323:000000JB
+#08324:00000000000000JC
+#08328:J706
+#08329:00J80000
+#08425:00JD0000
+#08428:00JE
+#08429:000000JF
+#08523:000000JI
+#08524:00JH
+#08525:00JG000000000000
+#08621:00JK000000000000
+#08623:JJJL0000
+#08624:000000JM00000000
+#08628:00JN
+#08629:000000JO
+#08722:000000JR00000000
+#08724:00JQJS00
+#08725:JP00000000JT0000
+#08729:000000JU
+#08821:0000000000KH0000
+#08822:0000JXJY
+#08823:00000000000000JZ
+#08824:00JW0000
+#08828:JV
+#08921:00000000000000K4
+#08923:000000K3
+#08925:K0K2
+#08928:00K10000
+#09022:00000000000000KC
+#09023:K50000KB
+#09024:0000000000KA0000
+#09025:00K60000K9000000
+#09028:000000K800000000
+#09029:00K70000
+#09121:KE
+
+
+;Part 88
+#00004:01
+
+
+;Part 99
+#00101:0N
+#00101:00
+#00101:00
+#00101:00
+#00101:0808
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:0808
+#00301:00
+#00301:00
+#00301:0Q0R0S0T000U000V
+#00401:00
+#00401:00
+#00401:0W0X0Y0Z10110012
+#00501:00
+#00501:00
+#00501:0013001415161700
+#00601:00
+#00601:00
+#00601:18191A1B001C001D
+#00701:00
+#00701:00
+#00701:1E1F1G1H1I1J001K
+#00801:00
+#00801:00
+#00801:001L001M1N1O1P1Q
+#00801:00
+#00801:0000000000000001
+#00901:00
+#00901:00
+#00901:0Q0R0S0T000U000V
+#00901:00
+#00901:0100010000010001
+#01001:00
+#01001:00
+#01001:0W0X0Y0Z10110012
+#01001:00
+#01001:0000010000010001
+#01101:00
+#01101:00
+#01101:0013001415161700
+#01101:00
+#01101:00000101
+#01201:00
+#01201:00
+#01201:18191A1B001C001D
+#01201:00
+#01201:0100010000010001
+#01301:00
+#01301:00
+#01301:1E1F1G1H1I1J001K
+#01301:00
+#01301:0000010000010001
+#01401:0000E8E9
+#01401:00
+#01401:001L001K00000000
+#01401:00
+#01401:00
+#01401:00
+#01401:00000101
+#01401:0000000000000L0L0L000000
+#01401:0000000000000000000J0J0J
+#01501:00
+#01501:EA0000EB0000ECED
+#01501:00
+#01501:00
+#01501:0000080004030800
+#01501:0000000F0000000F
+#01601:00
+#01601:EEEFEG0000EH0000
+#01601:00
+#01601:00
+#01601:02050803
+#01601:00000000000F0000
+#01701:00
+#01701:EIEJEKELEM0000EN
+#01701:00
+#01701:00
+#01701:0B00050000020500
+#01701:000F000F0000000F
+#01801:00
+#01801:EOEPEQERESETEU00
+#01801:00
+#01801:00
+#01801:03050B000A000B05
+#01801:0000000F00000000
+#01901:00
+#01901:00EVEWEXEY00EZ00
+#01901:00
+#01901:00
+#01901:00
+#01901:00
+#01901:00
+#01901:0000000L00000000
+#01901:00000K000K0J0J0J
+#02001:00
+#02001:F00000F10000F2F3
+#02001:00
+#02001:00
+#02001:00
+#02001:0000000F0000000H
+#02001:00
+#02001:00
+#02001:00
+#02001:000C0D0E
+#02101:00
+#02101:F4F5F60000F70000
+#02101:00
+#02101:00
+#02101:00
+#02101:0F000000000F0000
+#02101:00
+#02101:00
+#02101:000J000000000000
+#02101:0D0C0D0E
+#02201:00
+#02201:F8F9FAFBFC0000FD
+#02201:00
+#02201:00
+#02201:00
+#02201:000H000I0000000F
+#02201:00
+#02201:00
+#02201:00
+#02201:0D0C000E
+#02301:00
+#02301:0000FEFFFG00FH00
+#02301:00
+#02301:00
+#02301:0000000000000205
+#02301:0000000F00000000
+#02301:00
+#02301:00
+#02301:00
+#02301:0D0C0D0E
+#02401:00
+#02401:00FI0000FJ000000
+#02401:00
+#02401:00
+#02401:00
+#02401:00
+#02401:00
+#02401:000000000K0L0L0L
+#02401:00000J0J00000000
+#02401:0C
+#02501:00
+#02501:FK0000EB0000ECED
+#02501:00
+#02501:00
+#02501:0000080004030800
+#02501:0000000F0000000F
+#02601:00
+#02601:EEEFEG0000EH0000
+#02601:00
+#02601:00
+#02601:02050803
+#02601:00000000000F0000
+#02701:00
+#02701:EIEJEKELEM0000EN
+#02701:00
+#02701:00
+#02701:0B00050000020500
+#02701:000F000F0000000F
+#02801:00
+#02801:EOEPEQERESETEU00
+#02801:00
+#02801:00
+#02801:03050B000A000B05
+#02801:0000000I00000000
+#02901:00
+#02901:00EVEWEXEY00EZ00
+#02901:00
+#02901:00
+#02901:00
+#02901:00
+#02901:00
+#02901:000L0000
+#02901:000K000K0J0J0J00
+#03001:00
+#03001:F00000F10000F2F3
+#03001:00
+#03001:00
+#03001:00
+#03001:00000F0000000H0F
+#03001:00
+#03001:00
+#03001:00
+#03001:000C000D000E000D
+#03101:00
+#03101:F4F5F60000F70000
+#03101:00
+#03101:00
+#03101:00
+#03101:000F
+#03101:00
+#03101:00
+#03101:0J
+#03101:000C000D000E000D
+#03201:00
+#03201:F8F9FAFBFC0000FD
+#03201:00
+#03201:00
+#03201:00
+#03201:0H0I000F
+#03201:00
+#03201:00
+#03201:00
+#03201:000C0000000E0000
+#03301:00
+#03301:0000FEFFFG00FH00
+#03301:00
+#03301:00
+#03301:0000000000000205
+#03301:0000000H00000000
+#03301:00
+#03301:00
+#03301:00
+#03301:0D0C0D0E
+#03401:00
+#03401:00FI0000FJ000000
+#03401:00
+#03401:00
+#03401:00
+#03401:00
+#03401:00
+#03401:000000000K0L0L0L
+#03401:00000J0J00000000
+#03401:0C
+#03501:0O
+#03501:FM0000FN0000FO00
+#03501:00
+#03501:00
+#03501:0000040002000502
+#03501:000F
+#03501:0100010000000101
+#03601:00
+#03601:FPFQ0000FR0000FS
+#03601:00
+#03601:00
+#03601:0305000200050800
+#03601:0000000F00000000
+#03601:0001000000010100
+#03701:00
+#03701:00FTFU0000FV0000
+#03701:00
+#03701:00
+#03701:0200050004080002
+#03701:0F0000000000000F
+#03701:0000010100010000
+#03801:00
+#03801:FW00FXFY0000FZ00
+#03801:00
+#03801:00
+#03801:0005080004000000
+#03801:0000000F
+#03801:0001010001000001
+#03801:000000000000000L
+#03901:00
+#03901:00FM0000FN0000FO
+#03901:00
+#03901:00
+#03901:0000000400020005
+#03901:00000000000F0000
+#03901:0001000100000001
+#03901:00
+#03901:0J
+#04001:00
+#04001:00FPFQ0000FR0000
+#04001:00
+#04001:00
+#04001:0800040002000502
+#04001:000F
+#04001:0100010000000101
+#04101:00
+#04101:FS00FTFU0000FV00
+#04101:00
+#04101:00
+#04101:0302000500040800
+#04101:000F000000000000
+#04101:0000000101000100
+#04201:00
+#04201:00FW00FXFY0000FZ
+#04201:00
+#04201:00
+#04201:0000050800050000
+#04201:0F0000000000000F
+#04201:0000010100010000
+#04301:00
+#04301:0000G10000G20000
+#04301:00
+#04301:00
+#04301:00000405
+#04301:0000000F
+#04301:00010100
+#04301:0L
+#04301:000J000000000000
+#04401:00
+#04401:G300G4G50000G600
+#04401:00
+#04401:00
+#04401:0508000400020005
+#04401:00000000000F0000
+#04401:0101000100000001
+#04501:00
+#04501:00G700G8G90000GA
+#04501:00
+#04501:00
+#04501:0800020005000302
+#04501:000F0000
+#04501:0100000001010001
+#04601:00
+#04601:0000GB00GCGD0000
+#04601:00
+#04601:00
+#04601:0002000408000400
+#04601:000F000000000000
+#04601:0000000101000100
+#04701:00
+#04701:GE0000G10000G200
+#04701:00
+#04701:00
+#04701:0000000003040302
+#04701:0F0000000000000F
+#04701:0000010100010000
+#04701:000K000000000000
+#04701:000J0000
+#04801:00
+#04801:00G300G4G50000G6
+#04801:00
+#04801:00
+#04801:0005080004030500
+#04801:0000000F
+#04801:0001010001000000
+#04901:00
+#04901:0000G700G8G90000
+#04901:00
+#04901:00
+#04901:0408000B00050003
+#04901:0000000I00000000
+#04901:0101000000010100
+#04901:000L
+#05001:00
+#05001:GA0000GB00GCGG00
+#05001:00
+#05001:00
+#05001:04030800030B0004
+#05001:000F0000
+#05001:0100000001010001
+#05101:00
+#05101:00GH0000GI00GJ00
+#05101:00
+#05101:00
+#05101:05
+#05101:0000000F00000000000G0H0F000000000000000000000000
+#05101:00010001
+#05101:000000000L0L0000
+#05101:0000000000000K0J
+#05201:0P
+#05201:GKGLGMGNGOGPGQ00
+#05201:00
+#05201:00
+#05201:0005030002050300
+#05201:0000000F00000000
+#05301:00
+#05301:GR00GSGTGUGVGWGX
+#05301:00
+#05301:00
+#05301:00000300050000000300000005000002
+#05301:0F000000000F0000
+#05401:00
+#05401:GY00GZ00H0H1H2H3
+#05401:00
+#05401:00
+#05401:00040004
+#05401:000F00000000000F
+#05501:00
+#05501:H4H5H600H700H8H9
+#05501:00
+#05501:00
+#05501:05030007
+#05501:000F
+#05501:00
+#05501:000000000000000L
+#05601:00
+#05601:HAHBHCHDHEHFHGHH
+#05601:00
+#05601:00
+#05601:00
+#05601:000I000000000H0F
+#05601:00
+#05601:000K
+#05601:0000000J000J0000
+#05701:00
+#05701:HI0000HJ0000HK00
+#05701:00
+#05701:00
+#05701:00
+#05701:0000000F0000000F
+#05701:00
+#05701:00
+#05701:00
+#05701:00000D0C000E000C
+#05801:00
+#05801:HLHM0000HN0000HO
+#05801:00
+#05801:00
+#05801:00
+#05801:000F
+#05801:00
+#05801:00
+#05801:00
+#05801:0D0E0D000C000D0E
+#05901:00
+#05901:00HPHQ0000HR0000
+#05901:00
+#05901:00
+#05901:00
+#05901:00000000000F0000
+#05901:00
+#05901:0K
+#05901:000J000000000000
+#05901:00000000000C000E
+#06001:00
+#06001:HS00HTHU0000HV00
+#06001:00
+#06001:00
+#06001:00
+#06001:000F000000000F00
+#06001:00
+#06001:00
+#06001:00
+#06001:00000C0E0D000C0E
+#06101:00
+#06101:00HW00HXHYHZI0I1
+#06101:00
+#06101:00
+#06101:00
+#06101:0H0I00000000000F
+#06101:00
+#06101:000L0000
+#06101:0000000J00000000
+#06201:00
+#06201:I2I3I400I500I6I7
+#06201:00
+#06201:00
+#06201:05030402
+#06201:000F
+#06301:00
+#06301:I8I9IAIBIC00ID00
+#06301:00
+#06301:00
+#06301:0500020305000205
+#06301:000F0000000F0000
+#06401:00
+#06401:IEIFIGIHIIIJIK00
+#06401:00
+#06401:00
+#06401:0005030002050300
+#06401:0000000F00000000
+#06501:00
+#06501:IL00IMINIOIPIQIR
+#06501:00
+#06501:00
+#06501:00
+#06501:0F000000000F0000
+#06501:00
+#06501:0000000L00000000
+#06501:000000000K00000J
+#06601:00000000HI0000HJ
+#06601:ISITIUIV00000000
+#06601:00
+#06601:00
+#06601:00
+#06601:00000I0F0000000F
+#06601:00
+#06601:0L
+#06601:000K000000000000
+#06601:00000000000E0D0C
+#06701:0000HK00HLHM0000
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:0000000I00000000
+#06701:00
+#06701:00
+#06701:00
+#06701:000E000C000D0C00
+#06801:HN0000HO00HPHQ00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:0F
+#06801:00
+#06801:000K
+#06801:00000000000J0000
+#06801:0C000E0C00000000
+#06901:00HR0000HS00HTHU
+#06901:00
+#06901:00
+#06901:00
+#06901:00
+#06901:000F0000000F0000
+#06901:00
+#06901:00
+#06901:00
+#06901:000C000E000E000C
+#07001:0000HV0000HW0000
+#07001:00
+#07001:00
+#07001:00
+#07001:00
+#07001:000F0000
+#07001:00
+#07001:00
+#07001:00
+#07001:0E000C0E00000000
+#07101:00
+#07101:00
+#07101:B10000B20000B300
+#07101:00
+#07101:00
+#07101:00
+#07101:00
+#07101:00
+#07101:00
+#07101:0100010001000001
+#07201:00
+#07201:00
+#07201:0000B40000B50000
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00010101
+#07201:00
+#07201:0001000000000000
+#07301:00
+#07301:00
+#07301:B600B7B8B90000BA
+#07301:00
+#07301:00
+#07301:00
+#07301:00
+#07301:00
+#07301:00
+#07301:0001000001000100
+#07301:00
+#07301:0000000100000000
+#07401:00
+#07401:00
+#07401:00BBBCBD
+#07401:00
+#07401:00
+#07401:00
+#07401:00
+#07401:00
+#07401:00
+#07401:0100000001000001
+#07401:00
+#07401:0000000100000000
+#07501:00
+#07501:00
+#07501:00BE0000BF000000
+#07501:00
+#07501:00
+#07501:00
+#07501:00
+#07501:00
+#07501:00
+#07501:0001000100010000
+#07501:00
+#07501:0000000000000001
+#07601:00
+#07601:00
+#07601:BG0000BH
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:0100010001000001
+#07701:00
+#07701:00
+#07701:BIBJBK0000BL0000
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00010101
+#07701:00
+#07701:0001000000000000
+#07801:00
+#07801:00
+#07801:BM00BNBOBP000000
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:00
+#07801:0001000001000100
+#07801:00
+#07801:0000000100000000
+#07901:00
+#07901:00
+#07901:00BQBRBSBTBUBV00
+#07901:00
+#07901:00
+#07901:00
+#07901:00
+#07901:00
+#07901:00
+#07901:0100000001000001
+#07901:00
+#07901:0000000100000000
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:0001000100010001
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:0005000300000002
+#08101:00040B0F
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:0100010001000001
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00080505
+#08201:0L000000000F0000
+#08201:000K000000000000
+#08201:00
+#08201:00
+#08201:00
+#08201:00010101
+#08201:00
+#08201:0001000000000000
+#08301:00
+#08301:00
+#08301:00
+#08301:00
+#08301:00
+#08301:00
+#08301:0000000D
+#08301:0I000K0J00000000
+#08301:000L00000000000E
+#08301:00
+#08301:00
+#08301:00
+#08301:0001000001000100
+#08301:00
+#08301:0000000100000000
+#08401:00
+#08401:00
+#08401:00
+#08401:00
+#08401:00
+#08401:00
+#08401:0C0C0000
+#08401:000F000K
+#08401:000D000E0L0K000L
+#08401:00
+#08401:00
+#08401:00
+#08401:0100000001000001
+#08401:00
+#08401:0000000100000000
+#08501:00
+#08501:00
+#08501:00
+#08501:00
+#08501:00
+#08501:00
+#08501:000G
+#08501:0F00000000000000000H000000000000
+#08501:000K0J00000F0K0J
+#08501:00
+#08501:00
+#08501:00
+#08501:0001000100010000
+#08501:00
+#08501:0000000000000001
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:0005000300000002
+#08601:00
+#08601:00040B00
+#08601:0000000F
+#08601:00
+#08601:00
+#08601:0100010001000001
+#08701:00
+#08701:00
+#08701:00
+#08701:00
+#08701:00
+#08701:00
+#08701:00080505
+#08701:00
+#08701:0L0K0000000F0000
+#08701:00
+#08701:00
+#08701:00
+#08701:00010101
+#08701:00
+#08701:0001000000000000
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:0000000J00000D00
+#08801:00
+#08801:000L00000000000E
+#08801:0I0K0000
+#08801:00
+#08801:00
+#08801:0001000001000100
+#08801:00
+#08801:0000000100000000
+#08901:00
+#08901:00
+#08901:00
+#08901:00
+#08901:00
+#08901:00
+#08901:0C0C0000
+#08901:000F0L0K
+#08901:000D000E000K000L
+#08901:00
+#08901:00
+#08901:00
+#08901:0100000001000001
+#08901:00
+#08901:0000000100000000
+#09001:00
+#09001:00
+#09001:00
+#09001:00
+#09001:0000000000000000000H000000000000
+#09001:00
+#09001:00000G0K
+#09001:000000000000000J
+#09001:0F0K0J00000F0000
+#09001:00
+#09001:00
+#09001:00
+#09001:0001000100010000
+#09001:00
+#09001:0000000000000001
+#09101:00
+#09101:00
+#09101:00
+#09101:00
+#09101:00
+#09101:00
+#09101:00
+#09101:00
+#09101:00
+#09101:00
+#09101:00
+#09101:00
+#09101:01
+
+
